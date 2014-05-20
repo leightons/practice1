@@ -1,6 +1,6 @@
 practice1
 =========
-Tim was here
+Tim was here updated
 
 First practice repository
 
@@ -11,3 +11,5 @@ no he wasn't
 gareth was here again
 
 here is a change made directly in github
+
+another new line
