@@ -19,3 +19,6 @@ here is a change for after rebase
 here is a second change for after rebase
 
 here is a commit via Sammy's commit method
+
+adding yet another thing for giggles
+
